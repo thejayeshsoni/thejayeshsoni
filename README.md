@@ -1,13 +1,21 @@
-### Hi there 👋
-### 🌱 I’m currently learning Android development
-### 📫 How to reach me: 
-### Linkedin : https://www.linkedin.com/in/thejayeshsoni
-### Twitter  : https://twitter.com/thejayeshsoni
+# **About me**
+- :bust_in_silhouette: Name: Jayesh Soni
+- :smile: Pronouns: He/Him
+- :man_student: STUDENT
+- I'm from :india:
+- :mega: Languages: English & Hindi
 
-<!--
-**thejayeshsoni/thejayeshsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jayesh Soni an Information Technology student. I'm passionate about learn coding and problem solving.
 
-- 🌱 I’m currently learning Android development
-- 📫 How to reach me: 
-- Linkedin : https://www.linkedin.com/in/thejayeshsoni
-- Twitter  : https://twitter.com/thejayeshsoni
+# 📫 How to reach me: 
+- :e-mail: @sonijayesh12345@gmail.com
+- :octocat: [](https://github.com/thejayeshsoni)
+- [Linkedin](https://www.linkedin.com/in/thejayeshsoni/)
+- [Twitter](https://twitter.com/thejayeshsoni)
+
+# Hobbies
+- :camera_flash:
+- :orange_book:
+- :world_map:
+- :mountain:
+- :badminton:
