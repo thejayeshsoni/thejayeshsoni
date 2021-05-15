@@ -7,6 +7,9 @@
 
 I'm Jayesh Soni an Information Technology student. I'm passionate about learn coding and problem solving.
 
+# Quote:
+> Once you understand that your time here is limited, you will live sensibly.
+
 # 📫 How to reach me: 
 - :e-mail: sonijayesh12345@gmail.com
 - :octocat: [Github](https://github.com/thejayeshsoni)
