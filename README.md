@@ -1,26 +1,28 @@
-<!-- # **About me**
+# **About me**
 - :bust_in_silhouette: Name: Jayesh Soni
 - :smile: Pronouns: He/Him
 - :man_student: STUDENT
 - I'm from :india:
 - :mega: Languages: English & Hindi
 
-I'm Jayesh Soni an Information Technology student. I'm passionate about learn coding and problem solving.
+<!-- I'm Jayesh Soni an Information Technology student. I'm passionate about learn coding and problem solving. -->
 
 # Quote:
-> I'm just learning about myself.
-> Once you understand that your time here is limited, you will live sensibly.
+> I'm just learning about myself. <br>
+> Once you understand that your time here is limited, you will live sensibly.<br>
+> <strong>Strive to enhance, who you are.</strong><br>
 
 # 📫 How to reach me: 
 - :e-mail: sonijayesh12345@gmail.com
-- :octocat: [Github](https://github.com/thejayeshsoni)
 - [Linkedin](https://www.linkedin.com/in/thejayeshsoni/)
 - [Twitter](https://twitter.com/thejayeshsoni)
+<!-- - :octocat: [Github](https://github.com/thejayeshsoni) -->
+
 
 # Hobbies
-- :camera_flash: :orange_book: :world_map: :mountain: :badminton: -->
+- :camera_flash: :orange_book: :world_map: :mountain: :badminton:
 
-# Jayesh Soni
+<!-- # Jayesh Soni
 
 <h2 align="center">About me</h2>
 
@@ -106,4 +108,4 @@ func GetBio() Bio {
 
 ---
 
-⭐️ From [@thejayeshsoni](https://github.com/thejayeshsoni)
+⭐️ From [@thejayeshsoni](https://github.com/thejayeshsoni) -->
