@@ -1,7 +1,7 @@
 # **About me**
 - :bust_in_silhouette: Name: Jayesh Soni
 - :smile: Pronouns: He/Him
-- :man_student: Software Engineer
+- 💻: Software Engineer
 - I'm from :india:
 - :mega: Languages: English & Hindi
 
